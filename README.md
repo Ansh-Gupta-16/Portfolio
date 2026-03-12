@@ -42,3 +42,8 @@ Overall, the project demonstrates frontend development skills by combining struc
 
 <img width="1886" height="868" alt="Image" src="https://github.com/user-attachments/assets/52217fbf-cef7-40c9-aae5-e8827818bf4a" />
 
+<img width="1888" height="866" alt="Image" src="https://github.com/user-attachments/assets/f26f4ad6-6ed8-461f-a61b-b84fa3755284" />
+
+<img width="1889" height="870" alt="Image" src="https://github.com/user-attachments/assets/b13638dd-04df-4816-8fba-0e079827dff9" />
+
+<img width="1887" height="871" alt="Image" src="https://github.com/user-attachments/assets/7a0547c4-aea7-4c56-8d08-06b673c5e43c" />
